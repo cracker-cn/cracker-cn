@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I Like programming and design <br/>
+😄 I'm cracker and I Like programming and design <br/>
 🌱 I’m currently learning .NetCore and React <br/>
 📫 How to reach me: qq(1491184849) or email(crackerwork@126.com) <br/>
 📰 My blog address: https://www.cnblogs.com/crackerwork <br/>
